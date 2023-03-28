@@ -1,0 +1,24 @@
+body, html{
+    padding: 0;
+    margin: 0;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.scene {
+
+    display: flexbox;
+    justify-content: center;
+}
+
+#rick_and_morty{
+    position: relative;
+}
+.eye{
+    position: relative;
+    width: 17px;
+    height: 17px;;
+}
